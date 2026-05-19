@@ -20,6 +20,9 @@
 - **Tech:** Python, SQLite, 12 SQL queries, Power BI Dashboard
 - **Highlights:** Window Functions, Discount impact analysis, Interactive Power BI dashboard with map
 - **Result:** Identified $125K in losses from high discounts
+- **Dashboard Preview:** 👇
+
+![Superstore Dashboard](Superstore_PowerBI_Dashboard.png)
 
 ## 🔧 Skills
 
