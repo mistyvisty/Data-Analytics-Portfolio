@@ -22,7 +22,11 @@
 - **Result:** Identified $125K in losses from high discounts
 
 ## 🔧 Skills
-| Category | Tools |
-|----------|-------|
-| Languages | Python, SQL |
-| ML Libraries | scikit-l
+
+**Languages:** Python, SQL
+
+**ML Libraries:** scikit-learn, XGBoost, SHAP, imbalanced-learn
+
+**Visualization:** matplotlib, seaborn, Power BI
+
+**Techniques:** EDA, Feature Engineering, SMOTE Pipeline, Cross Validation, SHAP, Threshold Tuning
