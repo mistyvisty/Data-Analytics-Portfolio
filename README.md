@@ -24,12 +24,14 @@
 
 ![Superstore Dashboard](Superstore_PowerBI_Dashboard.png)
 
+### 🤖 4. Medical RAG Assistant — PCOS Clinical Literature
+- **Domain:** Medical AI / Generative AI
+- **Tech:** Python, LangChain, FAISS, HuggingFace (MiniLM), Groq (LLaMA 3.1), Google Colab
+- **Highlights:** RAG pipeline grounded in real PCOS research papers, hallucination-aware prompt (refuses to answer if context is missing), source citations with page numbers
+- **Result:** Answers clinical PCOS questions with cited evidence from uploaded research papers
+
 ## 🔧 Skills
-
 **Languages:** Python, SQL
-
 **ML Libraries:** scikit-learn, XGBoost, SHAP, imbalanced-learn
-
+**GenAI & RAG:** LangChain, FAISS, HuggingFace Embeddings, Groq API
 **Visualization:** matplotlib, seaborn, Power BI
-
-**Techniques:** EDA, Feature Engineering, SMOTE Pipeline, Cross Validation, SHAP, Threshold Tuning
